@@ -1,0 +1,20 @@
+{
+  "id": 746,
+  "title": "School Bus Safety Node Eco Driving Feedback",
+  "repository_slug": "school-bus-safety-node-eco-driving-feedback",
+  "category": "Smart Vehicles",
+  "platform": "STM32",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 24,
+  "connectivity": "LoRa",
+  "components": [
+    "buzzer",
+    "CAN transceiver"
+  ],
+  "scope": "Build a smart vehicles prototype that uses buzzer, CAN transceiver to summarize smoothness and energy use. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Eco Driving Feedback demonstration with repeatable test steps",
+  "mode": "safety_latch",
+  "entrypoint": "firmware/school-bus-safety-node-eco-driving-feedback/school-bus-safety-node-eco-driving-feedback.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
